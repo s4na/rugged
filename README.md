@@ -1,3 +1,4 @@
+
 # Rugged [![Rugged CI](https://github.com/libgit2/rugged/actions/workflows/ci.yml/badge.svg)](https://github.com/libgit2/rugged/actions/workflows/ci.yml)
 **libgit2 bindings in Ruby**
 
